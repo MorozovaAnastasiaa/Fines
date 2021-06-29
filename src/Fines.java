@@ -11,7 +11,7 @@ class Fines
     {
         System.out.println("Система расчета штрафов");
 
-        int carSpeed = 200;
+        int carSpeed = 150;
 
         System.out.println(carSpeed);
 
